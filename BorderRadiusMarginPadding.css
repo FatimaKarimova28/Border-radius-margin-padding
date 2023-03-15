@@ -1,0 +1,130 @@
+.firstdivinsider1 {
+  width: 150px;
+  height: 150px;
+  background-color: #003d1c;
+  border-radius: 50%;
+  display: inline-block;
+}
+.firstdivinsider2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 0 0 0 90%;
+  background-color: #56c288;
+  display: inline-block;
+}
+
+div {
+  display: inline-block;
+}
+.seconddivinsider1{
+    width: 150px;
+    height: 150px;
+    background-color: #6875ec;
+    border-radius: 10%;
+    margin-top: -65px;
+    
+}
+
+.seconddivinsider2{
+    width: 150px;
+  height: 150px;
+  border-radius: 50%;
+    background-color:#ccd1d7;
+    margin-top: -65px;
+ 
+}
+
+.triangle{
+    border: 40px solid transparent; border-left: 40px solid white;
+    margin-left: 70px;
+    display: inline-block;
+}
+.rectangle{
+    width: 300px;
+  height: 150px;
+  background-color: #ff0101;
+  border-radius: 20%;
+  padding-left: 100px;
+  margin-left: 150px;
+  padding-top: 50px;
+  margin-top: -20px;
+  margin-bottom: -20px;
+  display: inline-block;
+  
+}
+/* .petal:before,
+.petal:after {
+  content: "";
+  display: block;
+  } */
+
+/* .petal {
+  position: relative;
+  width: 100px;
+  height: 60px;
+  margin: 2em 7em;
+  background: #e64132;
+  border-radius: 100px 100px 20px 20px;
+  box-shadow: -5em 5em #31a452;
+}
+
+.petal:before {
+  position: absolute;
+  left: -12em;
+  top: -2em;
+  width: 60px;
+  height: 100px;
+  margin: 2em 7em;
+  background:  #f6b800;
+  border-radius: 100px 20px 20px 100px;
+  box-shadow: 5em 5em #4081ef;
+  } */
+  .shape{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.shape2{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+  .solyuxari{
+    background-color: #f6b800;
+    border-radius: 100px 100px 10px 10px;
+    height: 60px;
+    margin-left: 900px; 
+    
+  }
+
+  .sagyuxari{
+    width: 60px;
+    background-color: #e64132;
+    border-radius: 10px 100px 100px 10px;
+    margin-left: 1005px;
+   margin-top: -100px;
+   margin-bottom: 32px;
+  }
+  .solawagi{
+    width: 60px;
+    background-color: #31a452;
+    border-radius: 100px 10px 10px 100px;
+    margin-bottom: -50px;
+    margin-left: 930px;
+    margin-right: -200px;
+    margin-top: -700px;
+    
+    
+    
+  }
+.sagawagi{
+    background-color: #4081ef;
+    border-radius: 10px 10px 100px 100px;
+    height: 60px;
+    margin-left: 995px;
+    margin-top: -700px;
+    margin-bottom: 7px;
+
+
+}
